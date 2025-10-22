@@ -45,6 +45,3 @@ Os e-mails enviados incluem:
 - Conexões ativas com Outlook e Excel Online.
 - Permissão para leitura de arquivos do OneDrive ou SharePoint.
 
-## 📌 Licença
-
-Este projeto está licenciado sob a MIT License.
